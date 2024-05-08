@@ -1,3 +1,7 @@
+** Purpose of the program:
+
+This program is intended for education purposes only. I am a new dev creating portfolio pieces while I learn. All constructive feedback is welcome and appreciated (C) Jessica McHenry 2024
+
 ** Credits:
 
 This project was inspired by GoodBrief, a free design brief generator, made by Manu: https://manu.coffee/.
@@ -6,6 +10,8 @@ The colour palette was created using https://coolors.co/.
 
 The kiwi fruit image from the header was taken from an article here: https://weresmartworld.com/fruit-year-2023-kiwi.
 Image source pathway: https://weresmartworld.com/sites/default/files/styles/full_screen/public/2022-12/Kiwi-fruit-of-the-year-2023-04.jpg?itok=vtvp2IJC
+
+All graphic design was completed by the dev using Adobe Creative Suite.
 
 ** PROJECT DETAILS **
 
@@ -30,3 +36,11 @@ I started my research with a colour palette:
 And an image of a kiwi fruit I new I wanted to make the header image for the website design.
 
 /end first commit details.
+
+Second commit details:
+
+Navigation pages added - About Us - Travel Stories or Blog - Online Store.
+Background colours changed to git palette.
+CSS styling sheet and initial styling codes created.
+
+/end second commit details.

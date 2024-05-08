@@ -1,0 +1,22 @@
+/* Navigation styling*/
+nav {
+    background-color: #342E37;
+    font-size: 2.5em;
+    color: #FAFFFD;
+}
+/* Link behaviour */
+a:link {
+    color: #FAFFFD;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: #3C91E6;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  body {
+    background-color: #342E37;
+  }
