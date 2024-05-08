@@ -56,4 +56,8 @@ Further design amendments to digital assets.
 
 Fifth commit details:
 
-Hover shadow added on link buttons. 
+Hover shadow added on link buttons.
+
+Sixth commit details:
+
+Content added to Shop, About Us and Travel Stories. Digital assets created and added.

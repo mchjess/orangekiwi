@@ -27,9 +27,7 @@ a:link {
 .fa {
     padding: 2px;
     font-size: 30px;
-    width: 800px;
     text-align: center;
-    text-decoration: none;
   }
   
   /* Add a hover effect if you want */
@@ -38,7 +36,7 @@ a:link {
   }
   
   /* Set a specific color for each brand */
-  
+
   /*Instagram*/
   .fa-instagram {
     background: #125688;
@@ -73,6 +71,8 @@ a:link {
 
   body {
     background-color: #342E37;
+    color: #FAFFFD;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   
