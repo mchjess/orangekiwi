@@ -53,3 +53,7 @@ Nav bar centred for design flow.
 Fourth commit details:
 
 Further design amendments to digital assets.
+
+Fifth commit details:
+
+Images added with text.
