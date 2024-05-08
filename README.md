@@ -61,3 +61,7 @@ Hover shadow added on link buttons.
 Sixth commit details:
 
 Content added to Shop, About Us and Travel Stories. Digital assets created and added.
+
+Seventh commit details:
+
+Content for blog acquired and integrated. More tweaking needed.
