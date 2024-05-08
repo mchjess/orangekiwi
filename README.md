@@ -65,3 +65,7 @@ Content added to Shop, About Us and Travel Stories. Digital assets created and a
 Seventh commit details:
 
 Content for blog acquired and integrated. More tweaking needed.
+
+Eight commit details:
+
+Header images for all pages updated to new digital assets.
