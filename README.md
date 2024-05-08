@@ -44,3 +44,12 @@ Background colours changed to git palette.
 CSS styling sheet and initial styling codes created.
 
 /end second commit details.
+
+Third commit details:
+
+Header image updated and font changed to suit the websafe families of fonts.
+Nav bar centred for design flow.
+
+Fourth commit details:
+
+Further design amendments to digital assets.
