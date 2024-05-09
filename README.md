@@ -89,3 +89,7 @@ Header images for all pages updated to new digital assets.
 Ninth commit details:
 
 Blog page added with content and separate styling sheet. Credits updated with links to image origin sources.
+
+Tenth commit details:
+
+Responsive design elements tweaked for browser performance.
