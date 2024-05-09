@@ -2,14 +2,30 @@
 
 This program is intended for education purposes only. I am a new dev creating portfolio pieces while I learn. All constructive feedback is welcome and appreciated (C) Jessica McHenry 2024
 
-** Credits:
+** All Credits:
 
 This project was inspired by GoodBrief, a free design brief generator, made by Manu: https://manu.coffee/.
 
 The colour palette was created using https://coolors.co/.
 
-The kiwi fruit image from the header was taken from an article here: https://weresmartworld.com/fruit-year-2023-kiwi.
+Header image: https://weresmartworld.com/fruit-year-2023-kiwi.
 Image source pathway: https://weresmartworld.com/sites/default/files/styles/full_screen/public/2022-12/Kiwi-fruit-of-the-year-2023-04.jpg?itok=vtvp2IJC
+
+All Header designs - Created by J L McHenry using cited photograph and Adobe PS.
+
+Kayak Girl - https://images2.goabroad.com/image/upload/images2/program_content/oB4IN8qKYzUoqGnbA7MX7rGcWW57YesxAsFg1t8z.jpg
+
+Sunset image - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGgMJCW-54ffc3SCKEXTThPaNx8P3tXx2hufkVGfXtw&s
+
+Thai water - www.muchbetteradventures.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fm5us57n7qfgl%2F7MpyzBPFKYXGliekJY9SNI%2Fe810ccb9724f1117f0ed7b247853dedd%2FGettyImages-1031459638__1__adobe_express.jpeg&w=2048&q=50
+
+Woman Travelling Asia - https://www.chronique-locale.com/wp-content/uploads/2019/01/traveling-jobs-1024x560.jpg
+
+Orange India travel - www.houseoftravel.net/images/leisure/millenial-top.jpg
+
+Orange plane city - https://www.adventuresingoodcompany.com/images/thumbs/0001675.jpeg
+
+
 
 All graphic design was completed by the dev using Adobe Creative Suite.
 
@@ -69,3 +85,7 @@ Content for blog acquired and integrated. More tweaking needed.
 Eight commit details:
 
 Header images for all pages updated to new digital assets.
+
+Ninth commit details:
+
+Blog page added with content and separate styling sheet. Credits updated with links to image origin sources.
