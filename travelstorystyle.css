@@ -10,6 +10,7 @@ nav {
 }
 
 /* Link behaviour */
+
 a:link {
     color: #3C91E6;
     background-color: transparent;
@@ -36,6 +37,7 @@ a:link {
   /* Hover effect */
   .fa:hover {
     opacity: 0.7;
+    font-size: 30px;
   }
   
   /* Set a specific color for each brand */
