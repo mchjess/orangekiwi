@@ -90,13 +90,12 @@ header {
 
   .container {
     width: 100%;
-    padding: 60px;
     background-color: #342E37;
     color: #342E37;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
   }
 
   .box {
